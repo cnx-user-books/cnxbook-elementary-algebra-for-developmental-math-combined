@@ -1,0 +1,358 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Review &amp; Practice Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m80476</md:content-id>
+  <md:title>Review &amp; Practice Test</md:title>
+  <md:abstract>By the end of this section, you will be prepared to take the Chapter 8 Assessment.</md:abstract>
+  <md:uuid>e08f6456-8710-4336-8d43-49666f8f69fc</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1169595305424" class="review-exercises"><title>Chapter 8 Review Exercises</title><section id="fs-id1169595196947">
+<title><link class="target-chapter" document="m80467">Simplify and Use Square Roots</link></title><para id="fs-id1169595196955"><emphasis effect="bold">Simplify Expressions with Square Roots</emphasis></para>
+<para id="fs-id1169595196961">In the following exercises, simplify.</para>
+<exercise id="fs-id1169595196964">
+<problem id="fs-id1169595196966">
+<para id="fs-id1169595196968"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>64</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595196985">
+<problem id="fs-id1169595196987">
+<para id="fs-id1169595196989"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>144</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595196999">
+<para id="fs-id1169595197001">12</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595197006">
+<problem id="fs-id1169595197009">
+<para id="fs-id1169595197011"><m:math><m:mrow><m:mo>−</m:mo><m:msqrt><m:mrow><m:mn>25</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595197033">
+<problem id="fs-id1169595645091">
+<para id="fs-id1169595645093"><m:math><m:mrow><m:mo>−</m:mo><m:msqrt><m:mrow><m:mn>81</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595645105">
+<para id="fs-id1169595645107"><m:math><m:mrow><m:mn>−9</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595645116">
+<problem id="fs-id1169595645118">
+<para id="fs-id1169595645120"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>−9</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595645139">
+<problem id="fs-id1169595645141">
+<para id="fs-id1169595645143"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>−36</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595645155">
+<para id="fs-id1169595645157">not a real number</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595645163">
+<problem id="fs-id1169595645165">
+<para id="fs-id1169595645167"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>64</m:mn></m:mrow></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mrow><m:mn>225</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595642761">
+<problem id="fs-id1169595642763">
+<para id="fs-id1169595642765"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>64</m:mn><m:mo>+</m:mo><m:mn>225</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595642779">
+<para id="fs-id1169595642781">17</para>
+</solution>
+</exercise>
+<para id="fs-id1169595642786"><emphasis effect="bold">Estimate Square Roots</emphasis></para>
+<para id="fs-id1169595642792">In the following exercises, estimate each square root between two consecutive whole numbers.</para>
+<exercise id="fs-id1169595642795">
+<problem id="fs-id1169595642797">
+<para id="fs-id1169595642799"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>28</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595642830">
+<problem id="fs-id1169595642832">
+<para id="fs-id1169595642834"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>155</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595329852">
+<para id="fs-id1169595329854"><m:math><m:mrow><m:mn>12</m:mn><m:mo>&lt;</m:mo><m:msqrt><m:mrow><m:mn>155</m:mn></m:mrow></m:msqrt><m:mo>&lt;</m:mo><m:mn>13</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169595329874"><emphasis effect="bold">Approximate Square Roots</emphasis></para>
+<para id="fs-id1169595329879">In the following exercises, approximate each square root and round to two decimal places.</para>
+<exercise id="fs-id1169595329882">
+<problem id="fs-id1169595329884">
+<para id="fs-id1169595329886"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>15</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595329904">
+<problem id="fs-id1169595329906">
+<para id="fs-id1169595329908"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>57</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595329917">
+<para id="fs-id1169595329920">7.55</para>
+</solution>
+</exercise>
+<para id="fs-id1169595329925"><emphasis effect="bold">Simplify Variable Expressions with Square Roots</emphasis></para>
+<para id="fs-id1169595329930">In the following exercises, simplify.</para>
+<exercise id="fs-id1169595329933">
+<problem id="fs-id1169595329936">
+<para id="fs-id1169595643728"><m:math><m:mrow><m:msqrt><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595643750">
+<problem id="fs-id1169595643752">
+<para id="fs-id1169595643754"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>64</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595643769">
+<para id="fs-id1169595643771"><m:math><m:mrow><m:mn>8</m:mn><m:mi>b</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595643782">
+<problem id="fs-id1169595643784">
+<para id="fs-id1169595643786"><m:math><m:mrow><m:mtext>−</m:mtext><m:msqrt><m:mrow><m:mn>121</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595643816">
+<problem id="fs-id1169595644427">
+<para id="fs-id1169595644429"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>225</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595644449">
+<para id="fs-id1169595644451"><m:math><m:mrow><m:mn>15</m:mn><m:mi>m</m:mi><m:mi>n</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595644464">
+<problem id="fs-id1169595644466">
+<para id="fs-id1169595644468"><m:math><m:mrow><m:mtext>−</m:mtext><m:msqrt><m:mrow><m:mn>100</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595644498">
+<problem id="fs-id1169595644500">
+<para id="fs-id1169595644502"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>49</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595644517">
+<para id="fs-id1169595645228"><m:math><m:mrow><m:mn>7</m:mn><m:mi>y</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595645239">
+<problem id="fs-id1169595645241">
+<para id="fs-id1169595645243"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>4</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595645278">
+<problem id="fs-id1169595645280">
+<para id="fs-id1169595645283"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>121</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595645303">
+<para id="fs-id1169595645305"><m:math><m:mrow><m:mn>11</m:mn><m:mi>c</m:mi><m:mi>d</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169595278265">
+<title><link class="target-chapter" document="m80470">Simplify Square Roots</link></title><para id="fs-id1169595278273"><emphasis effect="bold">Use the Product Property to Simplify Square Roots</emphasis></para>
+<para id="fs-id1169595278279">In the following exercises, simplify.</para>
+<exercise id="fs-id1169595278282">
+<problem id="fs-id1169595278284">
+<para id="fs-id1169595278286"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>300</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595278310">
+<problem id="fs-id1169595278312">
+<para id="fs-id1169595278314"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>98</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595278323">
+<para id="fs-id1169595278326"><m:math><m:mrow><m:mn>7</m:mn><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595278337">
+<problem id="fs-id1169595278339">
+<para id="fs-id1169595278342"><m:math><m:mrow><m:msqrt><m:mrow><m:msup><m:mi>x</m:mi><m:mrow><m:mn>13</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595644311">
+<problem id="fs-id1169595644314">
+<para id="fs-id1169595644316"><m:math><m:mrow><m:msqrt><m:mrow><m:msup><m:mi>y</m:mi><m:mrow><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595644330">
+<para id="fs-id1169595644332"><m:math><m:mrow><m:msup><m:mi>y</m:mi><m:mn>9</m:mn></m:msup><m:msqrt><m:mi>y</m:mi></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595644347">
+<problem id="fs-id1169595644349">
+<para id="fs-id1169595644351"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>16</m:mn><m:msup><m:mi>m</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595644382">
+<problem id="fs-id1169595644384">
+<para id="fs-id1169595644386"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>36</m:mn><m:msup><m:mi>n</m:mi><m:mrow><m:mn>13</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595333303">
+<para id="fs-id1169595333306"><m:math><m:mrow><m:mn>6</m:mn><m:msup><m:mi>n</m:mi><m:mn>6</m:mn></m:msup><m:msqrt><m:mi>n</m:mi></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595333323">
+<problem id="fs-id1169595333325">
+<para id="fs-id1169595333327"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>288</m:mn><m:msup><m:mi>m</m:mi><m:mrow><m:mn>21</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595333366">
+<problem id="fs-id1169595333368">
+<para id="fs-id1169595333371"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>150</m:mn><m:msup><m:mi>n</m:mi><m:mn>7</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595333386">
+<para id="fs-id1169595333388"><m:math><m:mrow><m:mn>5</m:mn><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup><m:msqrt><m:mrow><m:mn>6</m:mn><m:mi>n</m:mi></m:mrow></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597725731">
+<problem id="fs-id1169597725733">
+<para id="fs-id1169597725735"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>48</m:mn><m:msup><m:mi>r</m:mi><m:mn>5</m:mn></m:msup><m:msup><m:mi>s</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597725783">
+<problem id="fs-id1169597725785">
+<para id="fs-id1169597725787"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>108</m:mn><m:msup><m:mi>r</m:mi><m:mn>5</m:mn></m:msup><m:msup><m:mi>s</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597725808">
+<para id="fs-id1169595094904"><m:math><m:mrow><m:mn>6</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mi>s</m:mi><m:msqrt><m:mrow><m:mn>3</m:mn><m:mi>r</m:mi><m:mi>s</m:mi></m:mrow></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595094928">
+<problem id="fs-id1169595094931">
+<para id="fs-id1169595094933"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn><m:mo>−</m:mo><m:msqrt><m:mrow><m:mn>50</m:mn></m:mrow></m:msqrt></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595094967">
+<problem id="fs-id1169595094969">
+<para id="fs-id1169595094971"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:mo>+</m:mo><m:msqrt><m:mrow><m:mn>72</m:mn></m:mrow></m:msqrt></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595094989">
+<para id="fs-id1169595094991"><m:math><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597776158"><emphasis effect="bold">Use the Quotient Property to Simplify Square Roots</emphasis></para>
+<para id="fs-id1169597776164">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597776167">
+<problem id="fs-id1169597776169">
+<para id="fs-id1169597776171"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>16</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597776200">
+<problem id="fs-id1169597776202">
+<para id="fs-id1169597776204"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>81</m:mn></m:mrow><m:mrow><m:mn>36</m:mn></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597776219">
+<para id="fs-id1169597776221"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597776233">
+<problem id="fs-id1169597776235">
+<para id="fs-id1169597776237"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>8</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595538596">
+<problem id="fs-id1169595538598">
+<para id="fs-id1169595538600"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>y</m:mi><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595538622">
+<para id="fs-id1169595538624"><m:math><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595538635">
+<problem id="fs-id1169595538638">
+<para id="fs-id1169595538640"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>98</m:mn><m:msup><m:mi>p</m:mi><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595330070">
+<problem id="fs-id1169595330072">
+<para id="fs-id1169595330074"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>72</m:mn><m:msup><m:mi>q</m:mi><m:mn>8</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>q</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595330100">
+<para id="fs-id1169595330102"><m:math><m:mrow><m:mn>6</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595330116">
+<problem id="fs-id1169595330118">
+<para id="fs-id1169595330120"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>65</m:mn></m:mrow><m:mrow><m:mn>121</m:mn></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595330153">
+<problem id="fs-id1169595330155">
+<para id="fs-id1169595330157"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>26</m:mn></m:mrow><m:mrow><m:mn>169</m:mn></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595272327">
+<para id="fs-id1169595272329"><m:math><m:mrow><m:mfrac><m:mrow><m:msqrt><m:mrow><m:mn>26</m:mn></m:mrow></m:msqrt></m:mrow><m:mrow><m:mn>13</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595272345">
+<problem id="fs-id1169595272348">
+<para id="fs-id1169595272350"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>64</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>25</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595272392">
+<problem id="fs-id1169595272394">
+<para id="fs-id1169595272397"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>36</m:mn><m:msup><m:mi>r</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>16</m:mn><m:msup><m:mi>r</m:mi><m:mn>5</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595272423">
+<para id="fs-id1169595272425"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:msqrt><m:mi>r</m:mi></m:msqrt></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595643950">
+<problem id="fs-id1169595643952">
+<para id="fs-id1169595643954"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>48</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mrow><m:mn>27</m:mn><m:mi>p</m:mi><m:mi>q</m:mi></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595644006">
+<problem id="fs-id1169595644008">
+<para id="fs-id1169595644010"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>r</m:mi><m:mn>5</m:mn></m:msup><m:msup><m:mi>s</m:mi><m:mn>7</m:mn></m:msup></m:mrow><m:mrow><m:mn>75</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mi>s</m:mi></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595644043">
+<para id="fs-id1169595642998"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>r</m:mi><m:msup><m:mi>s</m:mi><m:mn>3</m:mn></m:msup><m:msqrt><m:mi>r</m:mi></m:msqrt></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+</section><section id="fs-id1169597596948" class="practice-test">
+<title>Practice Test</title>
+<para id="fs-id1169597596955">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597596958">
+<problem id="fs-id1169597596961">
+<para id="fs-id1169597596963"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>81</m:mn><m:mo>+</m:mo><m:mn>144</m:mn></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597596984">
+<problem id="fs-id1169597596986">
+<para id="fs-id1169597596988"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>169</m:mn><m:msup><m:mi>m</m:mi><m:mn>4</m:mn></m:msup><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597687559">
+<para id="fs-id1169597687561"><m:math><m:mrow><m:mn>13</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mrow><m:mo>|</m:mo><m:mi>n</m:mi><m:mo>|</m:mo></m:mrow></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597687582">
+<problem id="fs-id1169597687585">
+<para id="fs-id1169597687587"><m:math><m:mrow><m:msqrt><m:mrow><m:mn>36</m:mn><m:msup><m:mi>n</m:mi><m:mrow><m:mn>13</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597687713">
+<problem id="fs-id1169597687715">
+<para id="fs-id1169597687717"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:msqrt><m:mrow><m:mn>6</m:mn><m:mi>y</m:mi></m:mrow></m:msqrt></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:msqrt><m:mrow><m:mn>50</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:msqrt></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595239581">
+<para id="fs-id1169595239583"><m:math><m:mrow><m:mn>180</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597759566">
+<problem id="fs-id1169597759568">
+<para id="fs-id1169597759570"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>64</m:mn><m:msup><m:mi>r</m:mi><m:mrow><m:mn>12</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>25</m:mn><m:msup><m:mi>r</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597759617">
+<problem id="fs-id1169597759619">
+<para id="fs-id1169597759621"><m:math><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>14</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>7</m:mn><m:mi>y</m:mi></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595333435">
+<para id="fs-id1169595333437"><m:math><m:mrow><m:mi>y</m:mi><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+</content>
+</document>

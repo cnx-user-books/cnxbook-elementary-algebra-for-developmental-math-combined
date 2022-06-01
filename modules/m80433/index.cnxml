@@ -1,0 +1,1414 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Review &amp; Practice Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m80433</md:content-id>
+  <md:title>Review &amp; Practice Test</md:title>
+  <md:abstract>By the end of this section, you will be prepared to take your Chapter 5 Assessment.</md:abstract>
+  <md:uuid>53bbc270-ecc5-4eb3-9a6b-d86384a6cff7</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1169597704104" class="review-exercises">
+<title>Chapter 5 Review Exercises</title><section id="fs-id1169596768170">
+<title><link class="target-chapter" document="m80422">Add and Subtract Polynomials</link></title><para id="fs-id1169597704117"><emphasis effect="bold">Identify Polynomials, Monomials, Binomials and Trinomials</emphasis></para>
+<para id="fs-id1168746503578">In the following exercises, determine if each of the following polynomials is a monomial, binomial, trinomial, or other polynomial.</para>
+<exercise id="fs-id1169597704126">
+<problem id="fs-id1169597704128">
+<para id="fs-id1166423958790"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>11</m:mn><m:msup><m:mi>c</m:mi><m:mn>4</m:mn></m:msup><m:mo>−</m:mo><m:mn>23</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/>
+<span class="token">ⓑ</span> <m:math><m:mrow><m:mn>9</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:math><newline/>
+<span class="token">ⓒ</span> <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mi>x</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:mfrac></m:mrow></m:math><newline/>
+<span class="token">ⓓ</span> 10<newline/>
+<span class="token">ⓔ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597704236">
+<problem id="fs-id1169597704238">
+<para id="fs-id1166426297830"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math><newline/>
+<span class="token">ⓑ</span> <m:math><m:mrow><m:mn>24</m:mn><m:msup><m:mi>d</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math><newline/>
+<span class="token">ⓒ</span> <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:math><newline/>
+<span class="token">ⓓ</span> <m:math><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math><newline/>
+<span class="token">ⓔ</span> <m:math><m:mrow><m:mn>7</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597738928">
+<para id="fs-id1169597738930"><span class="token">ⓐ</span> binomial <span class="token">ⓑ</span> monomial <span class="token">ⓒ</span> trinomial <span class="token">ⓓ</span> trinomial <span class="token">ⓔ</span> other polynomial</para>
+</solution>
+</exercise>
+<para id="fs-id1169597738936"><emphasis effect="bold">Determine the Degree of Polynomials</emphasis></para>
+<para id="fs-id1168746345366">In the following exercises, determine the degree of each polynomial.</para>
+<exercise id="fs-id1169597738943">
+<problem id="fs-id1169597738946">
+<list id="fs-id1168746345378" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓑ</span> <m:math><m:mrow><m:mn>14</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mi>b</m:mi><m:mi>c</m:mi></m:mrow></m:math></item>
+<item><span class="token">ⓒ</span> <m:math><m:mrow><m:mn>6</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓓ</span> <m:math><m:mrow><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓔ</span> <m:math><m:mrow><m:mn>−19</m:mn></m:mrow></m:math></item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1169597739050">
+<problem id="fs-id1169597739052">
+<list id="fs-id1168744121022" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>5</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−20</m:mn><m:msup><m:mi>q</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:math></item>
+<item><span class="token">ⓒ</span> <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓓ</span> <m:math><m:mrow><m:mn>23</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>r</m:mi><m:mi>s</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓔ</span> 100</item>
+</list>
+</problem>
+<solution id="fs-id1169597483551">
+<para id="fs-id1169597483553"><span class="token">ⓐ</span> 3 <span class="token">ⓑ</span> 4 <span class="token">ⓒ</span> 2 <span class="token">ⓓ</span> 4 <span class="token">ⓔ</span> 0</para>
+</solution>
+</exercise>
+<para id="fs-id1169597483559"><emphasis effect="bold">Add and Subtract Monomials</emphasis></para>
+<para id="fs-id1168746493269">In the following exercises, add or subtract the monomials.</para>
+<exercise id="fs-id1169597483566">
+<problem id="fs-id1169597483568">
+<para id="fs-id1169597483571"><m:math><m:mrow><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>5y</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597483611">
+<problem id="fs-id1169597483613">
+<para id="fs-id1169597483615"><m:math><m:mrow><m:mn>−14</m:mn><m:mi>k</m:mi><m:mo>+</m:mo><m:mn>19</m:mn><m:mi>k</m:mi></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597483632">
+<para id="fs-id1169597483634"><m:math><m:mrow><m:mn>5</m:mn><m:mi>k</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597483644">
+<problem id="fs-id1169597483646">
+<para id="fs-id1169597483649"><m:math><m:mrow><m:mn>12</m:mn><m:mi>q</m:mi><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−6</m:mn><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597701152">
+<problem id="fs-id1169597701154">
+<para id="fs-id1169597701156"><m:math><m:mrow><m:mn>−9</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>18</m:mn><m:mi>c</m:mi></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597701172">
+<para id="fs-id1169597701174"><m:math><m:mrow><m:mn>−27</m:mn><m:mi>c</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597701185">
+<problem id="fs-id1169597701188">
+<para id="fs-id1169597701190"><m:math><m:mrow><m:mtext>12x</m:mtext><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597701229">
+<problem id="fs-id1169597701231">
+<para id="fs-id1169597701233"><m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597701265">
+<para id="fs-id1169597701268"><m:math><m:mrow><m:mn>7</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597701281">
+<problem id="fs-id1169597701284">
+<para id="fs-id1169597701286"><m:math><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597701355">
+<problem id="fs-id1169597701357">
+<para id="fs-id1169597701359"><m:math><m:mrow><m:mtext>13a</m:mtext><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722508">
+<para id="fs-id1169597722510"><m:math><m:mrow><m:mtext>13a</m:mtext><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597722523"><emphasis effect="bold">Add and Subtract Polynomials</emphasis></para>
+<para id="fs-id1168744367582">In the following exercises, add or subtract the polynomials.</para>
+<exercise id="fs-id1169597722530">
+<problem id="fs-id1169597722532">
+<para id="fs-id1169597722535"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597722622">
+<problem id="fs-id1169597722624">
+<para id="fs-id1169597722626"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722680">
+<para id="fs-id1169597722682"><m:math><m:mrow><m:mn>13</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722706">
+<problem id="fs-id1169597722708">
+<para id="fs-id1169597722711"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>10</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597689861">
+<problem id="fs-id1169597689863">
+<para id="fs-id1169597689865"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597689910">
+<para id="fs-id1169597689912"><m:math><m:mrow><m:mn>7</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597689936">
+<problem id="fs-id1169597689938">
+<para id="fs-id1169597689941">Subtract<newline/><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>from</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>15</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>s</m:mi><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597690018">
+<problem id="fs-id1169597690021">
+<para id="fs-id1169597690023">Find the sum of <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597532666">
+<para id="fs-id1169597532668"><m:math><m:mrow><m:mn>5</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597532700"><emphasis effect="bold">Evaluate a Polynomial for a Given Value of the Variable</emphasis></para>
+<para id="fs-id1168742902674">In the following exercises, evaluate each polynomial for the given value.</para>
+<exercise id="fs-id1169597532707">
+<problem id="fs-id1169597532709">
+<para id="fs-id1169597532712">Evaluate <m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math> when:</para>
+<list id="fs-id1168744086301" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>−1</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1169597532778">
+<problem id="fs-id1169597532781">
+<para id="fs-id1169597532783">Evaluate <m:math><m:mrow><m:mn>10</m:mn><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>x</m:mi></m:mrow></m:math> when:</para>
+<list id="fs-id1168743129213" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+<item><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−1</m:mn></m:mrow></m:math></item>
+</list>
+</problem>
+<solution id="fs-id1169597532834">
+<para id="fs-id1169597532836"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−26</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> 10 <span class="token">ⓒ</span> 22</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597532848">
+<problem id="fs-id1169597532850">
+<para id="fs-id1169597532852">Randee drops a stone off the 200 foot high cliff into the ocean. The polynomial <m:math><m:mrow><m:mn>−16</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>200</m:mn></m:mrow></m:math> gives the height of a stone <m:math><m:mi>t</m:mi></m:math> seconds after it is dropped from the cliff. Find the height after <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> seconds.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597532893">
+<problem id="fs-id1169597532895">
+<para id="fs-id1169597532897">A manufacturer of stereo sound speakers has found that the revenue received from selling the speakers at a cost of <emphasis effect="italics">p</emphasis> dollars each is given by the polynomial <m:math><m:mrow><m:mn>−4</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>460</m:mn><m:mi>p</m:mi><m:mo>.</m:mo></m:mrow></m:math> Find the revenue received when <m:math><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mn>75</m:mn></m:mrow></m:math> dollars.</para>
+</problem>
+<solution id="fs-id1169597702435">
+<para id="fs-id1169597702437">12,000</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169597702443">
+<title><link class="target-chapter" document="m80424">Use Multiplication Properties of Exponents</link></title><para id="fs-id1169597702454"><emphasis effect="bold">Simplify Expressions with Exponents</emphasis></para>
+<para id="fs-id1169597702460">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597702466">
+<problem id="fs-id1169597702468">
+<para id="fs-id1169597702470"><m:math><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597702490">
+<problem id="fs-id1169597702492">
+<para id="fs-id1169597702494"><m:math><m:mrow><m:msup><m:mrow><m:mn>17</m:mn></m:mrow><m:mn>1</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597702506">
+<para id="fs-id1169597702508">17</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597702513">
+<problem id="fs-id1169597702515">
+<para id="fs-id1169597702517"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597702554">
+<problem id="fs-id1169597702556">
+<para id="fs-id1169597702558"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597702576">
+<para id="fs-id1169597702578">0.125</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597702583">
+<problem id="fs-id1169597702586">
+<para id="fs-id1169597702588"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597702614">
+<problem id="fs-id1169597702616">
+<para id="fs-id1169597702618"><m:math><m:mrow><m:mtext>−</m:mtext><m:msup><m:mn>2</m:mn><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597702631">
+<para id="fs-id1169597702633"><m:math><m:mrow><m:mn>−64</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597702642"><emphasis effect="bold">Simplify Expressions Using the Product Property for Exponents</emphasis></para>
+<para id="fs-id1168744266065">In the following exercises, simplify each expression.</para>
+<exercise id="fs-id1169597702649">
+<problem id="fs-id1169597702651">
+<para id="fs-id1169597702653"><m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>·</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597725826">
+<problem id="fs-id1169597725828">
+<para id="fs-id1169597725830"><m:math><m:mrow><m:msup><m:mi>p</m:mi><m:mrow><m:mn>15</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:msup><m:mi>p</m:mi><m:mrow><m:mn>16</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597725851">
+<para id="fs-id1169597725853"><m:math><m:mrow><m:msup><m:mi>p</m:mi><m:mrow><m:mn>31</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597725866">
+<problem id="fs-id1169597725868">
+<para id="fs-id1169597725870"><m:math><m:mrow><m:msup><m:mn>4</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:msup><m:mn>4</m:mn><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597725904">
+<problem id="fs-id1169597725906">
+<para id="fs-id1169597725908"><m:math><m:mrow><m:mn>8</m:mn><m:mo>·</m:mo><m:msup><m:mn>8</m:mn><m:mn>5</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597725923">
+<para id="fs-id1169597725925"><m:math><m:mrow><m:msup><m:mn>8</m:mn><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597725937">
+<problem id="fs-id1169597725939">
+<para id="fs-id1169597725941"><m:math><m:mrow><m:mi>n</m:mi><m:mo>·</m:mo><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>·</m:mo><m:msup><m:mi>n</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597725978">
+<problem id="fs-id1169597725980">
+<para id="fs-id1169597725982"><m:math><m:mrow><m:msup><m:mi>y</m:mi><m:mi>c</m:mi></m:msup><m:mo>·</m:mo><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597726000">
+<para id="fs-id1169597726002"><m:math><m:mrow><m:msup><m:mi>y</m:mi><m:mrow><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597726019"><emphasis effect="bold">Simplify Expressions Using the Power Property for Exponents</emphasis></para>
+<para id="fs-id1168744085313">In the following exercises, simplify each expression.</para>
+<exercise id="fs-id1169597726027">
+<problem id="fs-id1169597726029">
+<para id="fs-id1169597726031"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>m</m:mi><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597726069">
+<problem id="fs-id1169597726071">
+<para id="fs-id1169597726073"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mn>5</m:mn><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699764">
+<para id="fs-id1169597699767"><m:math><m:mrow><m:msup><m:mn>5</m:mn><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699778">
+<problem id="fs-id1169597699780">
+<para id="fs-id1169597699783"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>y</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mi>x</m:mi></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699821">
+<problem id="fs-id1169597699823">
+<para id="fs-id1169597699825"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mn>3</m:mn><m:mi>r</m:mi></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mi>s</m:mi></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699847">
+<para id="fs-id1169597699849"><m:math><m:mrow><m:msup><m:mn>3</m:mn><m:mrow><m:mi>r</m:mi><m:mi>s</m:mi></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597699864"><emphasis effect="bold">Simplify Expressions Using the Product to a Power Property</emphasis></para>
+<para id="fs-id1168744375980">In the following exercises, simplify each expression.</para>
+<exercise id="fs-id1169597699871">
+<problem id="fs-id1169597699873">
+<para id="fs-id1169597699875"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699913">
+<problem id="fs-id1169597699916">
+<para id="fs-id1169597699918"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−5</m:mn><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699938">
+<para id="fs-id1169597699940"><m:math><m:mrow><m:mn>−125</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699954">
+<problem id="fs-id1169597699957">
+<para id="fs-id1169597699959"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597700004">
+<problem id="fs-id1169597700006">
+<para id="fs-id1169597700009"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn><m:mi>x</m:mi><m:mi>y</m:mi><m:mi>z</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597700033">
+<para id="fs-id1169597700035"><m:math><m:mrow><m:mn>1000</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>z</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597700060"><emphasis effect="bold">Simplify Expressions by Applying Several Properties</emphasis></para>
+<para id="fs-id1168746268526">In the following exercises, simplify each expression.</para>
+<exercise id="fs-id1169597700067">
+<problem id="fs-id1169597700069">
+<para id="fs-id1169597700071"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msup><m:mo>·</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597638323">
+<problem id="fs-id1169597638326">
+<para id="fs-id1169597638328"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597638358">
+<para id="fs-id1169597638360"><m:math><m:mrow><m:mn>64</m:mn><m:msup><m:mi>a</m:mi><m:mn>9</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597638380">
+<problem id="fs-id1169597638382">
+<para id="fs-id1169597638384"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597638435">
+<problem id="fs-id1169597638437">
+<para id="fs-id1169597638439"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msup><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597638481">
+<para id="fs-id1169597638483"><m:math><m:mrow><m:mn>48</m:mn><m:msup><m:mi>q</m:mi><m:mrow><m:mn>14</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597638498">
+<problem id="fs-id1169597638500">
+<para id="fs-id1169597638502"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597638567">
+<problem id="fs-id1169597638570">
+<para id="fs-id1169597638572"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mi>n</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722741">
+<para id="fs-id1169597722743"><m:math><m:mrow><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>125</m:mn></m:mrow></m:mfrac><m:msup><m:mi>m</m:mi><m:mrow><m:mn>6</m:mn></m:mrow></m:msup><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597722768"><emphasis effect="bold">Multiply Monomials</emphasis></para>
+<para id="fs-id1168743990595">In the following exercises 8, multiply the monomials.</para>
+<exercise id="fs-id1169597722775">
+<problem id="fs-id1169597722777">
+<para id="fs-id1169597722779"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−15</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597722829">
+<problem id="fs-id1169597722831">
+<para id="fs-id1169597722833"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>−9</m:mn><m:msup><m:mi>n</m:mi><m:mn>7</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−16</m:mn><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722867">
+<para id="fs-id1169597722869"><m:math><m:mrow><m:mn>144</m:mn><m:msup><m:mi>n</m:mi><m:mn>8</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722883">
+<problem id="fs-id1169597722885">
+<para id="fs-id1169597722887"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:msup><m:mi>p</m:mi><m:mn>5</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mi>p</m:mi><m:msup><m:mi>q</m:mi><m:mn>9</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597722954">
+<problem id="fs-id1169597722956">
+<para id="fs-id1169597722958"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>27</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722999">
+<para id="fs-id1169597723001"><m:math><m:mrow><m:mn>15</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>5</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169597723021">
+<title><link class="target-chapter" document="m80427">Multiply Polynomials</link></title><para id="fs-id1169597723032"><emphasis effect="bold">Multiply a Polynomial by a Monomial</emphasis></para>
+<para id="fs-id1168746683973">In the following exercises, multiply.</para>
+<exercise id="fs-id1169597723039">
+<problem id="fs-id1169597723041">
+<para id="fs-id1169597723043"><m:math><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597728460">
+<problem id="fs-id1169597728462">
+<para id="fs-id1169597728464"><m:math><m:mrow><m:mn>−4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>13</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597728487">
+<para id="fs-id1169597728489"><m:math><m:mrow><m:mn>−4</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>52</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597728504">
+<problem id="fs-id1169597728506">
+<para id="fs-id1169597728508"><m:math><m:mrow><m:mn>−5</m:mn><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597728548">
+<problem id="fs-id1169597728550">
+<para id="fs-id1169597728552"><m:math><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597728574">
+<para id="fs-id1169597728576"><m:math><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>p</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597728595">
+<problem id="fs-id1169597728597">
+<para id="fs-id1169597728599"><m:math><m:mrow><m:mtext>−</m:mtext><m:mi>m</m:mi><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>15</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597728646">
+<problem id="fs-id1169597728648">
+<para id="fs-id1169597728650"><m:math><m:mrow><m:mn>−6</m:mn><m:mi>u</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597728676">
+<para id="fs-id1169597728679"><m:math><m:mrow><m:mn>−12</m:mn><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>42</m:mn><m:mi>u</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597728699">
+<problem id="fs-id1169597728701">
+<para id="fs-id1169597728703"><m:math><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">(</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597728762">
+<problem id="fs-id1169597728764">
+<para id="fs-id1169597728766"><m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+3</para>
+</problem>
+<solution id="fs-id1169597737031">
+<para id="fs-id1169597737033"><m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>q</m:mi><m:mn>4</m:mn></m:msup><m:mo>−</m:mo><m:mn>21</m:mn><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>18</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597737066">
+<problem id="fs-id1169597737068">
+<para id="fs-id1169597737071"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mi>z</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mi>z</m:mi></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597737115">
+<problem id="fs-id1169597737117">
+<para id="fs-id1169597737119"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mn>11</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597737144">
+<para id="fs-id1169597737146"><m:math><m:mrow><m:mn>11</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>44</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597737161"><emphasis effect="bold">Multiply a Binomial by a Binomial</emphasis></para>
+<para id="fs-id1168743060620">In the following exercises, multiply the binomials using: <span class="token">ⓐ</span> the Distributive Property, <span class="token">ⓑ</span> the FOIL method, <span class="token">ⓒ</span> the Vertical Method.</para>
+<exercise id="fs-id1169597737169">
+<problem id="fs-id1169597737172">
+<para id="fs-id1169597737174"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597737269">
+<problem id="fs-id1169597737271">
+<para id="fs-id1169597737273"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597737309">
+<para id="fs-id1169597737311"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>12</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>44</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>35</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>12</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>44</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>35</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>12</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>44</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>35</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597737380">In the following exercises, multiply the binomials. Use any method.</para>
+<exercise id="fs-id1169597737383">
+<problem id="fs-id1169597737385">
+<para id="fs-id1169597626244"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597626304">
+<problem id="fs-id1169597626306">
+<para id="fs-id1169597626308"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597626343">
+<para id="fs-id1169597626345"><m:math><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>32</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597626367">
+<problem id="fs-id1169597626369">
+<para id="fs-id1169597626371"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597626431">
+<problem id="fs-id1169597626433">
+<para id="fs-id1169597626435"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>16</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597626470">
+<para id="fs-id1169597626472"><m:math><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>13</m:mn><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>48</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597626494">
+<problem id="fs-id1169597626496">
+<para id="fs-id1169597626498"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>12</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597626564">
+<problem id="fs-id1169597626566">
+<para id="fs-id1169597626568"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597626609">
+<para id="fs-id1169597626611"><m:math><m:mrow><m:msup><m:mi>u</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>30</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597570105">
+<problem id="fs-id1169597570107">
+<para id="fs-id1169597570109"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597570182">
+<problem id="fs-id1169597570184">
+<para id="fs-id1169597570186"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597570229">
+<para id="fs-id1169597570231"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597570263"><emphasis effect="bold">Multiply a Trinomial by a Binomial</emphasis></para>
+<para id="fs-id1168743060731">In the following exercises, multiply using <span class="token">ⓐ</span> the Distributive Property, <span class="token">ⓑ</span> the Vertical Method.</para>
+<exercise id="fs-id1169597570271">
+<problem id="fs-id1169597570274">
+<para id="fs-id1169597570276"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597570380">
+<problem id="fs-id1169597570383">
+<para id="fs-id1169597570385"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597570427">
+<para id="fs-id1169597570430"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>18</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>21</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>34</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>40</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>18</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>21</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>34</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>40</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597571551">In the following exercises, multiply. Use either method.</para>
+<exercise id="fs-id1169597571554">
+<problem id="fs-id1169597571556">
+<para id="fs-id1169597571558"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597571637">
+<problem id="fs-id1169597571639">
+<para id="fs-id1169597571641"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>10</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597571688">
+<para id="fs-id1169597571690"><m:math><m:mrow><m:mn>7</m:mn><m:msup><m:mi>m</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>69</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>31</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math>
+</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169597571726">
+<title><link class="target-chapter" document="m80428">Special Products</link></title><para id="fs-id1169597571736"><emphasis effect="bold">Square a Binomial Using the Binomial Squares Pattern</emphasis></para>
+<para id="fs-id1168743060846">In the following exercises, square each binomial using the Binomial Squares Pattern.</para>
+<exercise id="fs-id1169597571744">
+<problem id="fs-id1169597571746">
+<para id="fs-id1169597571748"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>11</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597571797">
+<problem id="fs-id1169597571799">
+<para id="fs-id1169597571801"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597571823">
+<para id="fs-id1169597571826"><m:math><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>30</m:mn><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>225</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597571848">
+<problem id="fs-id1169597571850">
+<para id="fs-id1169597571852"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597571909">
+<problem id="fs-id1169597571911">
+<para id="fs-id1169597571913"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597571939">
+<para id="fs-id1169597571942"><m:math><m:mrow><m:mn>64</m:mn><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>16</m:mn><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597461072">
+<problem id="fs-id1169597461074">
+<para id="fs-id1169597461076"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597461137">
+<problem id="fs-id1169597461139">
+<para id="fs-id1169597461141"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597461168">
+<para id="fs-id1169597461170"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>24</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597461202"><emphasis effect="bold">Multiply Conjugates Using the Product of Conjugates Pattern</emphasis></para>
+<para id="fs-id1168743383985">In the following exercises, multiply each pair of conjugates using the Product of Conjugates Pattern.</para>
+<exercise id="fs-id1169597461210">
+<problem id="fs-id1169597461212">
+<para id="fs-id1169597461214"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>−</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597461267">
+<problem id="fs-id1169597461269">
+<para id="fs-id1169597461271"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597461309">
+<para id="fs-id1169597461311"><m:math><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597461331">
+<problem id="fs-id1169597461333">
+<para id="fs-id1169597461335"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>12</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>13</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>12</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>13</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597461395">
+<problem id="fs-id1169597461397">
+<para id="fs-id1169597461399"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo>−</m:mo><m:mi>r</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo>+</m:mo><m:mi>r</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597461434">
+<para id="fs-id1169597461436"><m:math><m:mrow><m:mn>36</m:mn><m:mo>−</m:mo><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597461452">
+<problem id="fs-id1169597461454">
+<para id="fs-id1169597461456"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>u</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>v</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>u</m:mi><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>v</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597538786">
+<problem id="fs-id1169597538788">
+<para id="fs-id1169597538790"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:msup><m:mi>p</m:mi><m:mn>4</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:msup><m:mi>p</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597538846">
+<para id="fs-id1169597538848"><m:math><m:mrow><m:mn>25</m:mn><m:msup><m:mi>p</m:mi><m:mn>8</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn><m:msup><m:mi>q</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597538872"><emphasis effect="bold">Recognize and Use the Appropriate Special Product Pattern</emphasis></para>
+<para id="fs-id1168746276650">In the following exercises, find each product.</para>
+<exercise id="fs-id1169597538879">
+<problem id="fs-id1169597538881">
+<para id="fs-id1169597538883"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>10</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597538936">
+<problem id="fs-id1169597538939">
+<para id="fs-id1169597538941"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>11</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>11</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597538980">
+<para id="fs-id1169597538982"><m:math><m:mrow><m:mn>36</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>121</m:mn></m:mrow></m:math>
+</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597539001">
+<problem id="fs-id1169597539003">
+<para id="fs-id1169597539005"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597539078">
+<problem id="fs-id1169597539080">
+<para id="fs-id1169597539083"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>c</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>d</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597539112">
+<para id="fs-id1169597539114"><m:math><m:mrow><m:msup><m:mi>c</m:mi><m:mn>8</m:mn></m:msup><m:mo>+</m:mo><m:mn>18</m:mn><m:msup><m:mi>c</m:mi><m:mn>4</m:mn></m:msup><m:mi>d</m:mi><m:mo>+</m:mo><m:mn>81</m:mn><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597539147">
+<problem id="fs-id1169597539150">
+<para id="fs-id1169597539152"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>p</m:mi><m:mn>5</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>5</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>p</m:mi><m:mn>5</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>q</m:mi><m:mn>5</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597703103">
+<problem id="fs-id1169597703105">
+<para id="fs-id1169597703107"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597703153">
+<para id="fs-id1169597703155"><m:math><m:mrow><m:mn>4</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:msup><m:mi>b</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169597703191">
+<title><link class="target-chapter" document="m80430">Divide Monomials</link></title><para id="fs-id1169597703202"><emphasis effect="bold">Simplify Expressions Using the Quotient Property for Exponents</emphasis></para>
+<para id="fs-id1168746634358">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597703209">
+<problem id="fs-id1169597703211">
+<para id="fs-id1169597703213"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>u</m:mi><m:mrow><m:mn>24</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mi>u</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597703248">
+<problem id="fs-id1169597703250">
+<para id="fs-id1169597703253"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597703275">
+<para id="fs-id1169597703277"><m:math><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>20</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597703291">
+<problem id="fs-id1169597703293">
+<para id="fs-id1169597703295"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3</m:mn><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mn>3</m:mn><m:mn>6</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597703328">
+<problem id="fs-id1169597703330">
+<para id="fs-id1169597703333"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mrow><m:mn>12</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mi>v</m:mi><m:mrow><m:mn>48</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597703354">
+<para id="fs-id1169597703356"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>v</m:mi><m:mrow><m:mn>36</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597703373">
+<problem id="fs-id1169597703375">
+<para id="fs-id1169597703377"><m:math><m:mrow><m:mfrac><m:mi>x</m:mi><m:mrow><m:msup><m:mi>x</m:mi><m:mn>5</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597703410">
+<problem id="fs-id1169597703413">
+<para id="fs-id1169597703415"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:msup><m:mn>5</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597703430">
+<para id="fs-id1169597703432"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mn>5</m:mn><m:mn>7</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597703448"><emphasis effect="bold">Simplify Expressions with Zero Exponents</emphasis></para>
+<para id="fs-id1168744362727">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597703455">
+<problem id="fs-id1169597703457">
+<para id="fs-id1169597703459"><m:math><m:mrow><m:msup><m:mrow><m:mn>75</m:mn></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597703479">
+<problem id="fs-id1169597703481">
+<para id="fs-id1169597703483"><m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597739307">
+<para id="fs-id1169597739309">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597739314">
+<problem id="fs-id1169597739317">
+<para id="fs-id1169597739319"><m:math><m:mrow><m:mtext>−</m:mtext><m:msup><m:mrow><m:mn>12</m:mn></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597739344">
+<problem id="fs-id1169597739346">
+<para id="fs-id1169597739348"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>−</m:mtext><m:msup><m:mrow><m:mn>12</m:mn></m:mrow><m:mn>0</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−12</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597739383">
+<para id="fs-id1169597739385">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597739391">
+<problem id="fs-id1169597739393">
+<para id="fs-id1169597739395"><m:math><m:mrow><m:mn>25</m:mn><m:msup><m:mi>x</m:mi><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597739415">
+<problem id="fs-id1169597739417">
+<para id="fs-id1169597739420"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>25</m:mn><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597739440">
+<para id="fs-id1169597739442">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597739447">
+<problem id="fs-id1169597739449">
+<para id="fs-id1169597739452"><m:math><m:mrow><m:mn>19</m:mn><m:msup><m:mi>n</m:mi><m:mn>0</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn><m:msup><m:mi>m</m:mi><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597739485">
+<problem id="fs-id1169597739487">
+<para id="fs-id1169597739489"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>19</m:mn><m:mi>n</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>0</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>25</m:mn><m:mi>m</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597739526">
+<para id="fs-id1169597739529">0</para>
+</solution>
+</exercise>
+<para id="fs-id1169597739534"><emphasis effect="bold">Simplify Expressions Using the Quotient to a Power Property</emphasis></para>
+<para id="fs-id1168743129691">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597739541">
+<problem id="fs-id1169597739543">
+<para id="fs-id1169597739546"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597739582">
+<problem id="fs-id1169597739584">
+<para id="fs-id1169597739586"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>m</m:mi><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597739607">
+<para id="fs-id1169597739610"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>m</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>81</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597739627">
+<problem id="fs-id1169597739629">
+<para id="fs-id1169597739631"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>r</m:mi><m:mi>s</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>8</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597739675">
+<problem id="fs-id1169597739677">
+<para id="fs-id1169597739679"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>x</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597739703">
+<para id="fs-id1169597739706"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:mn>64</m:mn><m:msup><m:mi>y</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597739728"><emphasis effect="bold">Simplify Expressions by Applying Several Properties</emphasis></para>
+<para id="fs-id1168743130157">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597700414">
+<problem id="fs-id1169597700416">
+<para id="fs-id1169597700418"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>9</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597700462">
+<problem id="fs-id1169597700464">
+<para id="fs-id1169597700466"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>n</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597700497">
+<para id="fs-id1169597700499">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597700504">
+<problem id="fs-id1169597700507">
+<para id="fs-id1169597700509"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>q</m:mi><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>q</m:mi><m:mn>8</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597700557">
+<problem id="fs-id1169597700559">
+<para id="fs-id1169597700561"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>r</m:mi><m:mn>8</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>r</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597700591">
+<para id="fs-id1169597700593"><m:math><m:mrow><m:msup><m:mi>r</m:mi><m:mrow><m:mn>20</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597700606">
+<problem id="fs-id1169597700608">
+<para id="fs-id1169597700610"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>d</m:mi><m:mn>5</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>9</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597700664">
+<problem id="fs-id1169597700667">
+<para id="fs-id1169597700669"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597700703">
+<para id="fs-id1169597700705"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>343</m:mn><m:msup><m:mi>x</m:mi><m:mrow><m:mn>20</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>32</m:mn><m:msup><m:mi>y</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597700732">
+<problem id="fs-id1169597700734">
+<para id="fs-id1169597700736"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>v</m:mi><m:mn>9</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>v</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597700786">
+<problem id="fs-id1169597700788">
+<para id="fs-id1169597700790"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msup><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−5</m:mn><m:msup><m:mi>n</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−2</m:mn><m:msup><m:mi>n</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597700854">
+<para id="fs-id1169597700856"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>10,125</m:mn><m:msup><m:mi>n</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597698625"><emphasis effect="bold">Divide Monomials</emphasis></para>
+<para id="fs-id1168744443742">In the following exercises, divide the monomials.</para>
+<exercise id="fs-id1169597698633">
+<problem id="fs-id1169597698635">
+<para id="fs-id1169597698637"><m:math><m:mrow><m:mn>−65</m:mn><m:msup><m:mi>y</m:mi><m:mrow><m:mn>14</m:mn></m:mrow></m:msup><m:mo>÷</m:mo><m:mi> </m:mi><m:mn>5</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597698680">
+<problem id="fs-id1169597698682">
+<para id="fs-id1169597698685"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>64</m:mn><m:msup><m:mi>a</m:mi><m:mn>5</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>9</m:mn></m:msup></m:mrow><m:mrow><m:mn>−16</m:mn><m:msup><m:mi>a</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup><m:msup><m:mi>b</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597698720">
+<para id="fs-id1169597698722"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>b</m:mi><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>5</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597698747">
+<problem id="fs-id1169597698749">
+<para id="fs-id1169597698751"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>144</m:mn><m:msup><m:mi>x</m:mi><m:mrow><m:mn>15</m:mn></m:mrow></m:msup><m:msup><m:mi>y</m:mi><m:mn>8</m:mn></m:msup><m:msup><m:mi>z</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>18</m:mn><m:msup><m:mi>x</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>z</m:mi><m:mrow><m:mn>12</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597698829">
+<problem id="fs-id1169597698831">
+<para id="fs-id1169597698833"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>8</m:mn><m:msup><m:mi>p</m:mi><m:mn>6</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>16</m:mn><m:msup><m:mi>p</m:mi><m:mn>8</m:mn></m:msup><m:msup><m:mi>q</m:mi><m:mn>7</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597698893">
+<para id="fs-id1169597698895"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mi>p</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169597698911">
+<title><link class="target-chapter" document="m80432">Divide Polynomials</link></title><para id="fs-id1169597698921"><emphasis effect="bold">Divide a Polynomial by a Monomial</emphasis></para>
+<para id="fs-id1168746633303">In the following exercises, divide each polynomial by the monomial.</para>
+<exercise id="fs-id1169597698929">
+<problem id="fs-id1169597698931">
+<para id="fs-id1169597698933"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>42</m:mn><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>18</m:mn><m:mi>z</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597698979">
+<problem id="fs-id1169597698981">
+<para id="fs-id1169597698983"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>35</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>75</m:mn><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699015">
+<para id="fs-id1169597699017"><m:math><m:mrow><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699032">
+<problem id="fs-id1169597699034">
+<para id="fs-id1169597699036"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>81</m:mn><m:msup><m:mi>n</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>105</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699090">
+<problem id="fs-id1169597699092">
+<para id="fs-id1169597699095"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>550</m:mn><m:msup><m:mi>p</m:mi><m:mn>6</m:mn></m:msup><m:mo>−</m:mo><m:mn>300</m:mn><m:msup><m:mi>p</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>10</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721996">
+<para id="fs-id1169597721998"><m:math><m:mrow><m:mn>55</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>30</m:mn><m:mi>p</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722018">
+<problem id="fs-id1169597722020">
+<para id="fs-id1169597722022"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>63</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>56</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>y</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>7</m:mn><m:mi>x</m:mi><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597722101">
+<problem id="fs-id1169597722103">
+<para id="fs-id1169597722105"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>96</m:mn><m:msup><m:mi>a</m:mi><m:mn>5</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>48</m:mn><m:msup><m:mi>a</m:mi><m:mn>4</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>56</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>8</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722166">
+<para id="fs-id1169597722168"><m:math><m:mrow><m:mn>12</m:mn><m:msup><m:mi>a</m:mi><m:mn>4</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722206">
+<problem id="fs-id1169597722208">
+<para id="fs-id1169597722210"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>57</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn><m:mi>m</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597722269">
+<problem id="fs-id1169597722271">
+<para id="fs-id1169597722273"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>105</m:mn><m:msup><m:mi>y</m:mi><m:mn>5</m:mn></m:msup><m:mo>+</m:mo><m:mn>50</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>y</m:mi></m:mrow><m:mrow><m:mn>5</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722313">
+<para id="fs-id1169597722315"><m:math><m:mrow><m:mn>21</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597722345"><emphasis effect="bold">Divide a Polynomial by a Binomial</emphasis></para>
+<para id="fs-id1168744063357">In the following exercises, divide each polynomial by the binomial.</para>
+<exercise id="fs-id1169597722352">
+<problem id="fs-id1169597722354">
+<para id="fs-id1169597722356"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>k</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>k</m:mi><m:mo>−</m:mo><m:mn>99</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>k</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597722414">
+<problem id="fs-id1169597722416">
+<para id="fs-id1169597722418"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn><m:mi>v</m:mi><m:mo>+</m:mo><m:mn>64</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722461">
+<para id="fs-id1169597722463"><m:math><m:mrow><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722476">
+<problem id="fs-id1169597722478">
+<para id="fs-id1169597722480"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>35</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597482849">
+<problem id="fs-id1169597482851">
+<para id="fs-id1169597482853"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>14</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597482896">
+<para id="fs-id1169597482898"><m:math><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>6</m:mn><m:mo>+</m:mo><m:mfrac><m:mn>4</m:mn><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597482924">
+<problem id="fs-id1169597482926">
+<para id="fs-id1169597482928"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:msup><m:mi>m</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597482997">
+<problem id="fs-id1169597482999">
+<para id="fs-id1169597483002"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>u</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>u</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597483038">
+<para id="fs-id1169597483040"><m:math><m:mrow><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>u</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1169597483063">
+<title><link class="target-chapter" document="m80435">Integer Exponents and Scientific Notation</link></title><para id="fs-id1169597483074"><emphasis effect="bold">Use the Definition of a Negative Exponent</emphasis></para>
+<para id="fs-id1168744063443">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597483081">
+<problem id="fs-id1169597483083">
+<para id="fs-id1169597483085"><m:math><m:mrow><m:msup><m:mn>9</m:mn><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597483112">
+<problem id="fs-id1169597483114">
+<para id="fs-id1169597483117"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597483136">
+<para id="fs-id1169597483138"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>125</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597483153">
+<problem id="fs-id1169597483156">
+<para id="fs-id1169597483158"><m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:msup><m:mn>4</m:mn><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597483189">
+<problem id="fs-id1169597483191">
+<para id="fs-id1169597483193"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6</m:mn><m:mi>u</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597483215">
+<para id="fs-id1169597483217"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>216</m:mn><m:msup><m:mi>u</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597483235">
+<problem id="fs-id1169597483237">
+<para id="fs-id1169597483239"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597483276">
+<problem id="fs-id1169597483278">
+<para id="fs-id1169597483280"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597483303">
+<para id="fs-id1169597483305"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>16</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597483318"><emphasis effect="bold">Simplify Expressions with Integer Exponents</emphasis></para>
+<para id="fs-id1168746636038">In the following exercises, simplify.</para>
+<exercise id="fs-id1169597483325">
+<problem id="fs-id1169597483327">
+<para id="fs-id1169597483329"><m:math><m:mrow><m:msup><m:mi>p</m:mi><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:msup><m:mi>p</m:mi><m:mn>8</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597483363">
+<problem id="fs-id1169597483365">
+<para id="fs-id1169597483367"><m:math><m:mrow><m:msup><m:mi>q</m:mi><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:msup><m:mi>q</m:mi><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597483388">
+<para id="fs-id1169597483390"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>q</m:mi><m:mrow><m:mn>11</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699128">
+<problem id="fs-id1169597699130">
+<para id="fs-id1169597699132"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>c</m:mi><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mi>d</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>c</m:mi><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:msup><m:mi>d</m:mi><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699193">
+<problem id="fs-id1169597699195">
+<para id="fs-id1169597699197"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>y</m:mi><m:mn>8</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699220">
+<para id="fs-id1169597699222"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>y</m:mi><m:mn>8</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699238">
+<problem id="fs-id1169597699240">
+<para id="fs-id1169597699242"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>q</m:mi><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699281">
+<problem id="fs-id1169597699283">
+<para id="fs-id1169597699285"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>8</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mrow><m:mn>12</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699306">
+<para id="fs-id1169597699308"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>a</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699324">
+<problem id="fs-id1169597699326">
+<para id="fs-id1169597699328"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699362">
+<problem id="fs-id1169597699364">
+<para id="fs-id1169597699367"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>r</m:mi><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mi>r</m:mi><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699388">
+<para id="fs-id1169597699391"><m:math><m:mi>r</m:mi></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597699398"><emphasis effect="bold">Convert from Decimal Notation to Scientific Notation</emphasis></para>
+<para id="fs-id1168744429553">In the following exercises, write each number in scientific notation.</para>
+<exercise id="fs-id1169597699405">
+<problem id="fs-id1169597699408">
+<para id="fs-id1169597699410">8,500,000</para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699433">
+<problem id="fs-id1169597699435">
+<para id="fs-id1169597699437">0.00429</para>
+</problem>
+<solution id="fs-id1169597699442">
+<para id="fs-id1169597699444"><m:math><m:mrow><m:mn>4.29</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699462">
+<problem id="fs-id1169597699464">
+<para id="fs-id1169597699466">The thickness of a dime is about 0.053 inches.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699491">
+<problem id="fs-id1169597699493">
+<para id="fs-id1169597699496">In 2015, the population of the world was about 7,200,000,000 people.</para>
+</problem>
+<solution id="fs-id1169597699500">
+<para id="fs-id1169597699502"><m:math><m:mrow><m:mn>7.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597699519"><emphasis effect="bold">Convert Scientific Notation to Decimal Form</emphasis></para>
+<para id="fs-id1168743128931">In the following exercises, convert each number to decimal form.</para>
+<exercise id="fs-id1169597699526">
+<problem id="fs-id1169597699528">
+<para id="fs-id1169597699531"><m:math><m:mrow><m:mn>3.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699557">
+<problem id="fs-id1169597699559">
+<para id="fs-id1169597699562"><m:math><m:mrow><m:mn>1.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699579">
+<para id="fs-id1169597699581"><m:math><m:mrow><m:mn>15,000,000,000</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597699589">
+<problem id="fs-id1169597699591">
+<para id="fs-id1169597699594"><m:math><m:mrow><m:mn>9.1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699622">
+<problem id="fs-id1169597699624">
+<para id="fs-id1169597699626"><m:math><m:mrow><m:mn>5.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597699643">
+<para id="fs-id1169597699645"><m:math><m:mrow><m:mn>0.55</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597699654"><emphasis effect="bold">Multiply and Divide Using Scientific Notation</emphasis></para>
+<para id="fs-id1168743373686">In the following exercises, multiply and write your answer in decimal form.</para>
+<exercise id="fs-id1169597699661">
+<problem id="fs-id1169597699663">
+<para id="fs-id1169597699665"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597699717">
+<problem id="fs-id1169597699719">
+<para id="fs-id1169597699721"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>6.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597736378">
+<para id="fs-id1169597736380"><m:math><m:mrow><m:mn>0.0217</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<para id="fs-id1169597736389">In the following exercises, divide and write your answer in decimal form.</para>
+<exercise id="fs-id1169597736392">
+<problem id="fs-id1169597736394">
+<para id="fs-id1169597736396"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597736438">
+<problem id="fs-id1169597736440">
+<para id="fs-id1169597736442"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597736474">
+<para id="fs-id1169597736476"><m:math><m:mrow><m:mn>0.0000003</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+</section>
+<section id="fs-id1169597736485" class="practice-test">
+<title>Chapter Practice Test</title>
+<exercise id="fs-id1169597736491">
+<problem id="fs-id1169597736493">
+<para id="fs-id1169597736495">For the polynomial <m:math><m:mrow><m:mn>10</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/>
+<span class="token">ⓐ</span> Is it a monomial, binomial, or trinomial?<newline/>
+<span class="token">ⓑ</span> What is its degree?</para>
+</problem>
+</exercise>
+<para id="fs-id1169597736538">In the following exercises, simplify each expression.</para>
+<exercise id="fs-id1169597736541">
+<problem id="fs-id1169597736543">
+<para id="fs-id1169597736545"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>12</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597736602">
+<para id="fs-id1169597736604"><m:math><m:mrow><m:mn>15</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597736626">
+<problem id="fs-id1169597736628">
+<para id="fs-id1169597736630"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597736707">
+<problem id="fs-id1169597736709">
+<para id="fs-id1169597736711"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597736735">
+<para id="fs-id1169597736737"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>125</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597736752">
+<problem id="fs-id1169597736754">
+<para id="fs-id1169597736756"><m:math><m:mrow><m:mi>u</m:mi><m:mo>·</m:mo><m:msup><m:mi>u</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597736785">
+<problem id="fs-id1169597736787">
+<para id="fs-id1169597736789"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597736818">
+<para id="fs-id1169597736820"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>a</m:mi><m:mn>6</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597736840">
+<problem id="fs-id1169597736843">
+<para id="fs-id1169597736845"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−9</m:mn><m:msup><m:mi>r</m:mi><m:mn>4</m:mn></m:msup><m:msup><m:mi>s</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mi>r</m:mi><m:msup><m:mi>s</m:mi><m:mn>7</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597736908">
+<problem id="fs-id1169597736910">
+<para id="fs-id1169597736912"><m:math><m:mrow><m:mn>3</m:mn><m:mi>k</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>k</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>k</m:mi><m:mo>+</m:mo><m:mn>13</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597736944">
+<para id="fs-id1169597736947"><m:math><m:mrow><m:mn>3</m:mn><m:msup><m:mi>k</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>21</m:mn><m:msup><m:mi>k</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>39</m:mn><m:mi>k</m:mi></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597736976">
+<problem id="fs-id1169597736979">
+<para id="fs-id1169597736981"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597704666">
+<problem id="fs-id1169597704669">
+<para id="fs-id1169597704671"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597704704">
+<para id="fs-id1169597704706"><m:math><m:mrow><m:mn>9</m:mn><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>86</m:mn><m:mi>v</m:mi><m:mo>+</m:mo><m:mn>45</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597704730">
+<problem id="fs-id1169597704733">
+<para id="fs-id1169597704735"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597704797">
+<problem id="fs-id1169597704799">
+<para id="fs-id1169597704801"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597704841">
+<para id="fs-id1169597704844"><m:math><m:mrow><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>11</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>34</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>24</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597704876">
+<problem id="fs-id1169597704878">
+<para id="fs-id1169597704880"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>15</m:mn><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597704953">
+<problem id="fs-id1169597704956">
+<para id="fs-id1169597704958"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>7</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>7</m:mn><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597704993">
+<para id="fs-id1169597704995"><m:math><m:mrow><m:mn>49</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597705013">
+<problem id="fs-id1169597705015">
+<para id="fs-id1169597705017"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597705069">
+<problem id="fs-id1169597705071">
+<para id="fs-id1169597705073"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3</m:mn><m:mn>8</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mn>3</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597705093">
+<para id="fs-id1169597705095"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597705107">
+<problem id="fs-id1169597705109">
+<para id="fs-id1169597705111"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>m</m:mi><m:mn>4</m:mn></m:msup><m:mo>·</m:mo><m:mi>m</m:mi></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597705160">
+<problem id="fs-id1169597705162">
+<para id="fs-id1169597705165"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>87</m:mn><m:msup><m:mi>x</m:mi><m:mrow><m:mn>15</m:mn></m:mrow></m:msup><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>z</m:mi><m:mrow><m:mn>22</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597705201">
+<para id="fs-id1169597705203"><m:math><m:mn>1</m:mn></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597705210">
+<problem id="fs-id1169597705213">
+<para id="fs-id1169597705215"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>80</m:mn><m:msup><m:mi>c</m:mi><m:mn>8</m:mn></m:msup><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>16</m:mn><m:mi>c</m:mi><m:msup><m:mi>d</m:mi><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597705271">
+<problem id="fs-id1169597705273">
+<para id="fs-id1169597705276"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>42</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597705306">
+<para id="fs-id1169597705309"><m:math><m:mrow><m:mn>6</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>21</m:mn><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597520054">
+<problem id="fs-id1169597520056">
+<para id="fs-id1169597520058"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>70</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:mn>95</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mi>y</m:mi></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597520126">
+<problem id="fs-id1169597520128">
+<para id="fs-id1169597520130"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>64</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597520159">
+<para id="fs-id1169597520161"><m:math><m:mrow><m:mn>16</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597520185">
+<problem id="fs-id1169597520187">
+<para id="fs-id1169597520190"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>18</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597520262">
+<problem id="fs-id1169597520264">
+<para id="fs-id1169597520266"><m:math><m:mrow><m:msup><m:mn>5</m:mn><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597520278">
+<para id="fs-id1169597520280"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597520293">
+<problem id="fs-id1169597520295">
+<para id="fs-id1169597520297"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mi>m</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597520339">
+<problem id="fs-id1169597520341">
+<para id="fs-id1169597520343"><m:math><m:mrow><m:msup><m:mi>q</m:mi><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:msup><m:mi>q</m:mi><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597520364">
+<para id="fs-id1169597520366"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>q</m:mi><m:mn>9</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597520382">
+<problem id="fs-id1169597520384">
+<para id="fs-id1169597520387"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597520422">
+<problem id="fs-id1169597520424">
+<para id="fs-id1169597520427">Convert 83,000,000 to scientific notation.</para>
+</problem>
+<solution id="fs-id1169597520431">
+<para id="fs-id1169597520433"><m:math><m:mrow><m:mn>8.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597520450">
+<problem id="fs-id1169597520452">
+<para id="fs-id1169597520454">Convert <m:math><m:mrow><m:mn>6.91</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math> to decimal form.</para>
+</problem>
+</exercise>
+<para id="fs-id1169597520485">In the following exercises, simplify, and write your answer in decimal form.</para>
+<exercise id="fs-id1169597520488">
+<problem id="fs-id1169597520490">
+<para id="fs-id1169597520492"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597520533">
+<para id="fs-id1169597520535">74,800</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597520540">
+<problem id="fs-id1169597520543">
+<para id="fs-id1169597520545"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>8.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597520587">
+<problem id="fs-id1169597520589">
+<para id="fs-id1169597520591">A helicopter flying at an altitude of 1000 feet drops a rescue package. The polynomial <m:math><m:mrow><m:mn>−16</m:mn><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>1000</m:mn></m:mrow></m:math> gives the height of the package <m:math><m:mi>t</m:mi></m:math> seconds a after it was dropped. Find the height when <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>6</m:mn></m:mrow></m:math> seconds.</para>
+</problem>
+<solution id="fs-id1169597520624">
+<para id="fs-id1169597520626">424 feet</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1169597520636">
+<term>negative exponent</term>
+<meaning id="fs-id1169597520642">If <m:math><m:mi>n</m:mi></m:math> is a positive integer and <m:math><m:mrow><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>, then <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mrow><m:mtext>−</m:mtext><m:mi>n</m:mi></m:mrow></m:msup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>a</m:mi><m:mi>n</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math>.</meaning>
+</definition>
+<definition id="fs-id1169597520683">
+<term>scientific notation</term>
+<meaning id="fs-id1169597520689">A number is expressed in scientific notation when it is of the form <m:math><m:mrow><m:mi>a</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math> where <m:math><m:mrow><m:mi>a</m:mi><m:mo>≥</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>10</m:mn></m:mrow></m:math> and <m:math><m:mi>n</m:mi></m:math> is an integer.</meaning>
+</definition>
+</glossary>
+</document>

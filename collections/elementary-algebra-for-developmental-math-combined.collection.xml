@@ -1,0 +1,115 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col30426</md:content-id>
+    <md:title>Elementary Algebra for Developmental Math Combined</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>b9adafbb-1730-4f0b-bd41-61b311065a00</md:uuid>
+<md:slug>elementary-algebra-for-developmental-math-combined</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Arithmetic Review</md:title>
+      <col:content>
+        <col:module document="m79935"/>
+        <col:module document="m79822"/>
+        <col:module document="m79926"/>
+        <col:module document="m79928"/>
+        <col:module document="m79929"/>
+        <col:module document="m79930"/>
+        <col:module document="m79936"/>
+        <col:module document="m79937"/>
+        <col:module document="m79945"/>
+        <col:module document="m79991"/>
+        <col:module document="m79992"/>
+        <col:module document="m80299"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Solving Linear Equations and Inequalities</md:title>
+      <col:content>
+        <col:module document="m80040"/>
+        <col:module document="m80041"/>
+        <col:module document="m80042"/>
+        <col:module document="m80043"/>
+        <col:module document="m80070"/>
+        <col:module document="m80073"/>
+        <col:module document="m80074"/>
+        <col:module document="m80086"/>
+        <col:module document="m80420"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Applications</md:title>
+      <col:content>
+        <col:module document="m80150"/>
+        <col:module document="m80151"/>
+        <col:module document="m80154"/>
+        <col:module document="m80155"/>
+        <col:module document="m80156"/>
+        <col:module document="m80157"/>
+        <col:module document="m80158"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Graphs</md:title>
+      <col:content>
+        <col:module document="m80283"/>
+        <col:module document="m80290"/>
+        <col:module document="m80292"/>
+        <col:module document="m80294"/>
+        <col:module document="m80296"/>
+        <col:module document="m80297"/>
+        <col:module document="m80298"/>
+        <col:module document="m80421"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Polynomials</md:title>
+      <col:content>
+        <col:module document="m80423"/>
+        <col:module document="m80422"/>
+        <col:module document="m80424"/>
+        <col:module document="m80427"/>
+        <col:module document="m80428"/>
+        <col:module document="m80430"/>
+        <col:module document="m80432"/>
+        <col:module document="m80435"/>
+        <col:module document="m80433"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Factoring</md:title>
+      <col:content>
+        <col:module document="m80425"/>
+        <col:module document="m80442"/>
+        <col:module document="m80437"/>
+        <col:module document="m80440"/>
+        <col:module document="m80472"/>
+        <col:module document="m80444"/>
+        <col:module document="m80455"/>
+        <col:module document="m80436"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rational Expressions</md:title>
+      <col:content>
+        <col:module document="m80429"/>
+        <col:module document="m80473"/>
+        <col:module document="m80448"/>
+        <col:module document="m80462"/>
+        <col:module document="m80474"/>
+        <col:module document="m80475"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Square Root Expressions</md:title>
+      <col:content>
+        <col:module document="m80431"/>
+        <col:module document="m80467"/>
+        <col:module document="m80470"/>
+        <col:module document="m80476"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
